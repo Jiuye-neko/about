@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Source Han Sans';
+  font-display: swap;
+  src: url('/src/assets/fonts/SourceHanSansSC-VF.otf.woff2') format('woff2');
+}
